@@ -1,0 +1,6 @@
+#grade1{
+ height: 200px;
+ width: 250px;
+ background-color: red;
+ background-image: radial-gradient(red,green,blue);
+}
